@@ -3,7 +3,7 @@ template: blog-post
 title: 'From Newspapers to "Newsletter": Print vs Web'
 slug: /article-2
 date: 2020-09-27 18:58
-description: Learning about the difference between web and print fonts!
+description: "Learning about the difference between web and print fonts! "
 featuredImage: /assets/typography.jpg
 ---
 *Print fonts and web fonts.*
