@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: The Four Horseman of the Fonts
-slug: /the_four_horsemen_of_the_fonts
+slug: /the_four_horsemen_of_the_fonts-article3
 date: 2020-10-04 22:24
 description: An article about the four main styles of typefaces
 featuredImage: /assets/letter-pixabay.jpg
