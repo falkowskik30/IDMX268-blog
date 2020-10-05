@@ -6,7 +6,7 @@ date: 2020-10-04 22:24
 description: An article about the four main styles of typefaces
 featuredImage: /assets/letter-pixabay.jpg
 ---
-While they’re hundreds, even thousands of fonts at your disposal on any given day they all can be broken down to fit into four categories. ___
+While they’re hundreds, even thousands of fonts at your disposal on any given day they all can be broken down to fit into four categories. These four different styles of typefaces help designers choose what fonts best suit their projects and what is best for the audience.
 
 Serif typefaces are probably what everyone is most familiar with. It’s the fonts used when you print out your research papers, read the newspaper, or when you look in a book. What makes serif typefaces so popular is the little adorations helping our eyes form connections between individual letters, allowing the brain to pick up words faster. There are several different types of serif typefaces:
 
