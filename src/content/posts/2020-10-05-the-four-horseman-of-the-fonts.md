@@ -3,7 +3,7 @@ template: blog-post
 title: The Four Horseman of the Fonts
 slug: /the_four_horsemen_of_the_fonts-article3
 date: 2020-10-04 22:24
-description: An article about the four main styles of typefaces
+description: An article about the four main styles of typefaces.
 featuredImage: /assets/letter-pixabay.jpg
 ---
 While they’re hundreds, even thousands of fonts at your disposal on any given day they all can be broken down to fit into four categories. These four different styles of typefaces help designers choose what fonts best suit their projects and what is best for the audience.
