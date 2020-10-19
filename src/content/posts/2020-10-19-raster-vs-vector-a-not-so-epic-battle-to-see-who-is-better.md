@@ -32,3 +32,15 @@ However, vector graphics are not suitable for complex graphic displays, since th
 Just because raster graphics provide a wide range of hues, colors, and is the go-to file format for memes doesn’t always mean it’s best suited for the major billboard on the highway. And just because vector images are incapable of losing image quality doesn’t mean it’s the best choice for creating a major piece of artwork. Both image types have their strengths and weaknesses as well as the fields they are best suited for. Which you choose ultimately comes down to what kind of work you are doing and how the final product is going to be displayed.
 
 Remember! You paint with pixels and you draw with vectors!
+
+
+
+Resources:
+
+https://vector-conversions.com/vectorizing/raster_vs_vector.html#:~:text=Pixels%20vs%20Vectors,images%20are%20made%20of%20pixels.&text=Vector%20images%20are%20mathematical%20calculations,a%20specific%20number%20of%20pixels.
+
+https://www.shutterstock.com/blog/raster-vs-vector-file-formats
+
+https://ww.geeksforgeeks.org/vector-vs-raster-graphics/
+
+https://www.ionos.com/digitalguide/websites/web-design/pixel-graphics-vs-vector-graphics-a-comparison/
