@@ -3,7 +3,7 @@ template: blog-post
 title: "Raster vs. Vector: A not so epic battle to see who is better"
 slug: raster-vs-vector_article4
 date: 2020-10-18 23:07
-description: Article 4
+description: Article 4.
 ---
 As we browse the wide expanse of the internet, we tend to come across two main types of image files. Raster and vector. Both have their advantages in the graphic field, however, they can’t be used interchangeably (not conveniently, at least). Where one file type lacks, the other is there to make up for it. So whether you are printing 30+ copies of that one cat photo you found online or are making shirts for your company, there’s a graphic-type perfectly suited for you.
 
